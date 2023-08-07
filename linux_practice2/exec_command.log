@@ -1,0 +1,41 @@
+    1  git push origin master
+    2  ls
+    3  cd -
+    4  cd ~
+    5  ls
+    6  cd server_lesson
+    7  ls
+    8  cd -
+    9  ls
+   10  cd server_lesson
+   11  ls
+   12  git push origin master
+   13  cd ..
+   14  ls
+   15  git push origin master
+   16  ls
+   17  ls -al
+   18  ls -la
+   19  ls
+   20  ls
+   21  ls 0la
+   22  ls -la
+   23  cd server_lesson/
+   24  ls -la
+   25  cd linux_practice
+   26  ls -la
+   27  git branch
+   28  git log
+   29  cd ..
+   30  ls
+   31  exit
+   32  ls
+   33  cd root
+   34  ls
+   35  cd server_lesson_2
+   36  ls
+   37  cd linux_practice2
+   38  ls
+   39  ls -a
+   40  vi .gitignore
+   41  history 300 >exec_command.log
